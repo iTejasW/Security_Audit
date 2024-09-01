@@ -1,4 +1,4 @@
-# Activity Overview: Security Audit
+## Activity Overview: Security Audit
 
 In part one of this activity, you will conduct an internal security audit, which you can include in your cybersecurity portfolio. 
 
