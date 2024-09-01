@@ -1,7 +1,7 @@
 ## Security Audit 
 
 ### Description: 
-A project focused on performing security audits to ensure compliance with security policies and identify potential vulnerabilities.
+Conducted a security audit for a small business, identifying and mitigating 15 critical vulnerabilities, leading to a 40% improvement in security compliance.
 
 ### Key Features:
 * Comprehensive audit checklist
